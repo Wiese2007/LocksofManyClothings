@@ -1,0 +1,16 @@
+{
+   "craftable_recipes": {
+      "armor": {
+         "ordinal": 7,
+         "name": "i18n(stonehearth:jobs.carpenter.recipes.armor_name)",
+         "recipes": {
+            "boxhead_recipe": {
+               "recipe": "file(boxhead_recipe.json)"
+            }, 
+            "miner_recipe": {
+               "recipe": "file(miner_recipe.json)"
+            }
+         }
+      }
+   }
+}

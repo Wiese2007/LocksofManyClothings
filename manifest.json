@@ -1,0 +1,48 @@
+{
+    "info": {
+        "name": "locksofmanyclothings",
+        "version": 2
+    },
+
+    "default_locale" : "en",
+
+    "aliases": {
+
+        "hat:beaverhat": "file(entities/hat/beaverhat)",
+        "hat:boxhead": "file(entities/hat/boxhead)",
+        "hat:cookingpot": "file(entities/hat/cookingpot)",
+        "hat:hood": "file(entities/hat/hood)",
+        "hat:miner": "file(entities/hat/miner)",
+        "hat:bucket": "file(entities/hat/bucket)",
+        "hat:huntercloak": "file(entities/hat/huntercloak)",
+        "hat:assassincloak": "file(entities/hat/assassincloak)",
+        "hat:vortech": "file(entities/hat/vortech)",
+        "hat:animemuch_glasses": "file(entities/hat/animemuch_glasses)",
+        "hat:sombrero": "file(entities/hat/sombrero)",
+        "hat:rabbithat": "file(entities/hat/rabbithat)",
+        "hat:blackmage": "file(entities/hat/blackmage)",
+        "hat:wolfmask": "file(entities/hat/wolfmask)",
+        "hat:kingcloak": "file(entities/hat/kingcloak)",
+        "hat:ash": "file(entities/hat/ash)"
+        },
+        
+    "overrides": {
+        "/stonehearth/jobs/cook/cook_outfit/cook_outfit.qb": "/locksofmanyclothings/jobs/cook/cook_outfit/cook_outfit.qb",
+        "/stonehearth/jobs/cook/cook_outfit/cook_outfit_female.qb": "/locksofmanyclothings/jobs/cook/cook_outfit/cook_outfit_female.qb",
+        "/stonehearth/jobs/cook/cook_outfit/cook_outfit.json": "/locksofmanyclothings/jobs/cook/cook_outfit/cook_outfit.json",
+        "/stonehearth/jobs/carpenter/carpenter_outfit/carpenter_outfit.qb": "/locksofmanyclothings/jobs/carpenter/carpenter_outfit/carpenter_outfit.qb",
+        "/stonehearth/jobs/carpenter/carpenter_outfit/carpenter_outfit_female.qb": "/locksofmanyclothings/jobs/carpenter/carpenter_outfit/carpenter_outfit_female.qb",
+        "/stonehearth/jobs/carpenter/carpenter_outfit/carpenter_outfit.json": "/locksofmanyclothings/jobs/carpenter/carpenter_outfit/carpenter_outfit.json",
+        "/stonehearth/jobs/trapper/trapper_outfit/trapper_outfit.qb": "/locksofmanyclothings/jobs/trapper/trapper_outfit/trapper_outfit.qb",
+        "/stonehearth/jobs/trapper/trapper_outfit/trapper_outfit_female.qb": "/locksofmanyclothings/jobs/trapper/trapper_outfit/trapper_outfit_female.qb",
+        "/stonehearth/jobs/trapper/trapper_outfit/trapper_outfit.json": "/locksofmanyclothings/jobs/trapper/trapper_outfit/trapper_outfit.json",
+        "/stonehearth/jobs/herbalist/herbalist_outfit/herbalist_outfit.qb": "/locksofmanyclothings/jobs/herbalist/herbalist_outfit/herbalist_outfit.qb",
+        "/stonehearth/jobs/herbalist/herbalist_outfit/herbalist_outfit_female.qb": "/locksofmanyclothings/jobs/herbalist/herbalist_outfit/herbalist_outfit_female.qb",
+        "/stonehearth/jobs/herbalist/herbalist_outfit/herbalist_outfit.json": "/locksofmanyclothings/jobs/herbalist/herbalist_outfit/herbalist_outfit.json"
+    },
+    "mixintos" : {
+        "stonehearth/jobs/carpenter/recipes/recipes.json" : "file(recipes/carpenter/recipes.json)",
+        "stonehearth/jobs/blacksmith/recipes/recipes.json" : "file(recipes/blacksmith/recipes.json)",
+        "stonehearth/jobs/weaver/recipes/recipes.json" : "file(recipes/weaver/recipes.json)"
+    }
+}

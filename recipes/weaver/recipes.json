@@ -1,0 +1,40 @@
+{
+   "craftable_recipes": {
+      "clothing_armor": {
+         "ordinal": 3,
+         "name": "i18n(stonehearth:jobs.weaver.recipes.clothing_armor_name)",
+         "recipes": {
+            "beaverhat_recipe": {
+               "recipe": "file(beaverhat_recipe.json)"
+            }, 
+            "hood_recipe": {
+               "recipe": "file(hood_recipe.json)"
+            },
+            "huntercloak_recipe": {
+               "recipe": "file(huntercloak_recipe.json)"
+            },
+            "assassincloak_recipe": {
+               "recipe": "file(assassincloak_recipe.json)"
+            },
+            "sombrero_recipe": {
+               "recipe": "file(sombrero_recipe.json)"
+            },
+            "rabbithat_recipe": {
+               "recipe": "file(rabbithat_recipe.json)"
+            },
+            "blackmage_recipe": {
+               "recipe": "file(blackmage_recipe.json)"
+            },
+            "wolfmask_recipe": {
+               "recipe": "file(wolfmask_recipe.json)"
+            },
+            "kingcloak_recipe": {
+               "recipe": "file(kingcloak_recipe.json)"
+            },
+            "ash_recipe": {
+               "recipe": "file(ash_recipe.json)"
+            }
+         }
+      }
+   }
+}

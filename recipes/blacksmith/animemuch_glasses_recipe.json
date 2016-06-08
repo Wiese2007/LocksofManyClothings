@@ -1,0 +1,21 @@
+{
+   "type": "recipe",
+   "work_units": 5,
+   "recipe_name": "i18n(locksofmanyclothings:recipes.blacksmith.animemuch_glasses_recipe.recipe_name)",
+   "description": "i18n(locksofmanyclothings:recipes.blacksmith.animemuch_glasses_recipe.description)",
+   "flavor": "i18n(locksofmanyclothings:recipes.blacksmith.animemuch_glasses_recipe.flavor)",
+   "portrait": "/locksofmanyclothings/entities/hat/animemuch_glasses/animemuch_glasses.png",
+    "workshop": "stonehearth:blacksmith:workbench",
+   "level_requirement": 4,
+   "ingredients": [
+      {
+         "uri": "stonehearth:refined:steel_ingot",
+         "count": 1
+      }
+   ],
+   "produces": [
+      {
+         "item": "locksofmanyclothings:hat:animemuch_glasses"
+      }
+   ]
+}

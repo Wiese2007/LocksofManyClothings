@@ -1,0 +1,31 @@
+{
+   "mixins": "stonehearth:mixins:item_properties",
+   "type": "entity",
+   "components": {
+      "unit_info": {
+         "display_name": "i18n(locksofmanyclothings:entities.hat.ash.ash_iconic.display_name)",
+         "description": "i18n(locksofmanyclothings:entities.hat.ash.ash_iconic.description)",
+         "icon": "file(ash.png)"
+      },
+      "item": {
+         "category": "armor"
+      },
+      "stonehearth:material": {
+         "tags": "leather hat armor"
+      },
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(ash_iconic.qb)"
+            ]
+         }
+      },
+      "mob": {
+         "model_origin": {
+            "x": -0.05,
+            "y": 0,
+            "z": 0.05
+         }
+      }
+   }
+}

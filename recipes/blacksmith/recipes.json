@@ -1,0 +1,22 @@
+{
+   "craftable_recipes": {
+      "armor": {
+         "ordinal": 12,
+         "name": "i18n(stonehearth:jobs.blacksmith.recipes.armor_name)",
+         "recipes": {
+            "bucket_recipe": {
+               "recipe": "file(bucket_recipe.json)"
+            }, 
+            "cookingpot_recipe": {
+               "recipe": "file(cookingpot_recipe.json)"
+            },
+            "vortech_recipe": {
+               "recipe": "file(vortech_recipe.json)"
+            },
+            "animemuch_glasses_recipe": {
+               "recipe": "file(animemuch_glasses_recipe.json)"
+            }
+         }
+      }
+   }
+}

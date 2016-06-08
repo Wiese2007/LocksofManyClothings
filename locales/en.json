@@ -1,0 +1,254 @@
+{
+   "entities": {
+      "hat": {
+         "beaverhat": {
+            "beaverhat": {
+               "display_name" : "Beaverhat",
+               "description" : "Canda or Candado?"
+               },
+            "beaverhat_iconic": {
+               "display_name" : "Beaverhat",
+               "description" : "Canda or Candado?"
+               }
+            },
+         "boxhead": {
+            "boxhead": {
+               "display_name" : "Boxhead",
+               "description" : "Im in the Box!"
+               },
+            "boxhead_iconic": {
+               "display_name" : "Boxhead",
+               "description" : "Im in the Box!"
+               }
+            },
+         "ash": {
+            "ash": {
+               "display_name" : "Cappy",
+               "description" : "Go catch all monsters!"
+               },
+            "ash_iconic": {
+               "display_name" : "Cappy",
+               "description" : "Go catch all monsters!"
+               }
+            },
+         "wolfmask": {
+            "wolfmask": {
+               "display_name" : "Wolfmask",
+               "description" : "I´m the Wolf in Person!"
+               },
+            "wolfmask_iconic": {
+               "display_name" : "Wolfmask",
+               "description" : "I´m the Wolf in Person!"
+               }
+            },
+         "sombrero": {
+            "sombrero": {
+               "display_name" : "Sombrero",
+               "description" : "Speedy Gonzales!"
+               },
+            "sombrero_iconic": {
+               "display_name" : "Sombrero",
+               "description" : "Speedy Gonzales!"
+               }
+            },
+         "blackmage": {
+            "blackmage": {
+               "display_name" : "Blackmage Hat",
+               "description" : "Fear the Power of the Blackmage!"
+               },
+            "blackmage_iconic": {
+               "display_name" : "Blackmage Hat",
+               "description" : "Fear the Power of the Blackmage!"
+               }
+            },
+         "rabbithat": {
+            "rabbithat": {
+               "display_name" : "Rabbithat",
+               "description" : "Fluffy Ears!"
+               },
+            "rabbithat_iconic": {
+               "display_name" : "Rabbithat",
+               "description" : "Fluffy Ears!"
+               }
+            },
+         "cookingpot": {
+            "cookingpot": {
+               "display_name" : "Cookingpot",
+               "description" : "The Order of the Cookingknights"
+            },
+            "cookingpot_iconic": {
+               "display_name" : "Cookingpot",
+               "description" : "The Order of the Cookingknights"
+            }
+         },
+         "hood": {
+            "hood": {
+               "display_name" : "Hood",
+               "description" : "De Fratrum vita"
+            },
+            "hood_iconic": {
+               "display_name" : "Hood",
+               "description" : "De Fratrum vita"
+            }
+         },
+         "miner": {
+            "miner": {
+               "display_name" : "Miner",
+               "description" : "Let´s dig in!"
+            },
+            "miner_iconic": {
+               "display_name" : "Miner",
+               "description" : "Let´s dig in!"
+            }
+         },
+         "bucket": {
+            "bucket": {
+               "display_name" : "Bucket",
+               "description" : "Last night it was still my chamber pot :P"
+            },
+            "bucket_iconic": {
+               "display_name" : "Bucket",
+               "description" : "Last night it was still my chamber pot :P"
+            }
+         },
+         "huntercloak": {
+            "huntercloak": {
+               "display_name" : "Hunter Cloak",
+               "description" : "The prey will not see him!"
+            },
+            "huntercloak_iconic": {
+               "display_name" : "Hunter Cloak",
+               "description" : "The prey will not see him!"
+            }
+         },
+         "assassincloak": {
+            "assassincloak": {
+               "display_name" : "Assassin Cloak",
+               "description" : "Darker then the Night!"
+            },
+            "assassincloak_iconic": {
+               "display_name" : "Assassin Cloak",
+               "description" : "Darker then the Night!"
+            }
+         },
+         "vortech": {
+            "vortech": {
+               "display_name" : "Vortech",
+               "description" : "Steel is all!"
+            },
+            "vortech_iconic": {
+               "display_name" : "Vortech",
+               "description" : "Steel is all!"
+            }
+         },
+         "kingcloak": {
+            "kingcloak": {
+               "display_name" : "Kingcloak",
+               "description" : "You know nothing, Jon Snow!"
+            },
+            "kingcloak_iconic": {
+               "display_name" : "Kingcloak",
+               "description" : "You know nothing, Jon Snow!"
+            }
+         },
+         "animemuch_glasses": {
+            "animemuch_glasses": {
+               "display_name" : "Animemuch Glasses",
+               "description" : "Häääää!"
+            },
+            "animemuch_glasses_iconic": {
+               "display_name" : "Animemuch Glasses",
+               "description" : "Häääää!"
+            }
+         }
+      }
+   },
+   "recipes": {
+      "blacksmith": {
+         "bucket_recipe": {
+            "recipe_name" : "Bucket",
+            "description" : "Last night it was still my chamber pot :P",
+            "flavor" : ""
+         },
+         "cookingpot_recipe": {
+            "recipe_name" : "Cookingpot",
+            "description" : "The Order of the Cookingknights",
+            "flavor" : "Monkey Island greetz!"
+         },
+         "animemuch_glasses_recipe": {
+            "recipe_name" : "Animemuch Glasses",
+            "description" : "Häääää!",
+            "flavor" : ""
+         },
+         "vortech_recipe": {
+            "recipe_name" : "Vortech",
+            "description" : "Steel is all!",
+            "flavor" : ""
+         }
+      },
+      "carpenter": {
+         "boxhead_recipe": {
+            "recipe_name" : "Boxhead",
+            "description" : "Im in the Box!",
+            "flavor" : ""
+         },
+         "miner_recipe": {
+            "recipe_name" : "Miner",
+            "description" : "Let´s dig in!",
+            "flavor" : ""
+         }
+      },
+      "weaver": {
+         "beaverhat_recipe": {
+            "recipe_name" : "Beaverhat",
+            "description" : "Canda or Candado?",
+            "flavor" : ""
+         },
+         "hood_recipe": {
+            "recipe_name" : "Hood",
+            "description" : "De Fratrum vita",
+            "flavor" : ""
+         },
+         "huntercloak_recipe": {
+            "recipe_name" : "Hunter Cloak",
+            "description" : "The prey will not see him!",
+            "flavor" : "De Fratrum vita"
+         },
+         "assassincloak_recipe": {
+            "recipe_name" : "Assassin Cloak",
+            "description" : "Darker then the Night!",
+            "flavor" : ""
+         },
+         "sombrero_recipe": {
+            "recipe_name" : "Sombrero",
+            "description" : "Speedy Gonzales!",
+            "flavor" : ""
+         },
+         "rabbithat_recipe": {
+            "recipe_name" : "Rabbit Hat",
+            "description" : "Fluffy Ears!",
+            "flavor" : ""
+         },
+         "blackmage_recipe": {
+            "recipe_name" : "Blackmage Hat",
+            "description" : "Fear the Power of the Blackmage!",
+            "flavor" : ""
+         },
+         "wolfmask_recipe": {
+            "recipe_name" : "Wolfmask",
+            "description" : "I´m the Wolf in Person!",
+            "flavor" : ""
+         },
+         "kingcloak_recipe": {
+            "recipe_name" : "Kingcloak",
+            "description" : "You know nothing, Jon Snow!",
+            "flavor" : ""
+         },
+         "ash_recipe": {
+            "recipe_name" : "Cappy",
+            "description" : "Go catch all monsters!",
+            "flavor" : ""
+         }
+      }
+   }
+}
