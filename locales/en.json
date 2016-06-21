@@ -61,6 +61,16 @@
                "description" : "Fear the Power of the Blackmage!"
                }
             },
+         "cactihati": {
+            "cactihati": {
+               "display_name" : "Cactihati",
+               "description" : "Dun touch mah hat!"
+               },
+            "cactihati_iconic": {
+               "display_name" : "Cactihati",
+               "description" : "Dun touch mah hat!"
+               }
+            },
          "rabbithat": {
             "rabbithat": {
                "display_name" : "Rabbithat",
@@ -151,6 +161,16 @@
                "description" : "You know nothing, Jon Snow!"
             }
          },
+         "ramask": {
+            "ramask": {
+               "display_name" : "Ramask",
+               "description" : "Who, me? Why would I dig through rubbish?"
+            },
+            "ramask_iconic": {
+               "display_name" : "Ramask",
+               "description" : "Who, me? Why would I dig through rubbish?"
+            }
+         },
          "animemuch_glasses": {
             "animemuch_glasses": {
                "display_name" : "Animemuch Glasses",
@@ -196,6 +216,11 @@
             "recipe_name" : "Miner",
             "description" : "Let´s dig in!",
             "flavor" : ""
+         },
+         "ramask_recipe": {
+            "recipe_name" : "Ramask",
+            "description" : "Who, me? Why would I dig through rubbish?",
+            "flavor" : ""
          }
       },
       "weaver": {
@@ -212,7 +237,7 @@
          "huntercloak_recipe": {
             "recipe_name" : "Hunter Cloak",
             "description" : "The prey will not see him!",
-            "flavor" : "De Fratrum vita"
+            "flavor" : ""
          },
          "assassincloak_recipe": {
             "recipe_name" : "Assassin Cloak",
@@ -247,6 +272,11 @@
          "ash_recipe": {
             "recipe_name" : "Cappy",
             "description" : "Go catch all monsters!",
+            "flavor" : ""
+         },
+         "cactihati_recipe": {
+            "recipe_name" : "Cactihati",
+            "description" : "Dun touch mah hat!",
             "flavor" : ""
          }
       }

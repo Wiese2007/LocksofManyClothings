@@ -23,7 +23,9 @@
         "hat:blackmage": "file(entities/hat/blackmage)",
         "hat:wolfmask": "file(entities/hat/wolfmask)",
         "hat:kingcloak": "file(entities/hat/kingcloak)",
-        "hat:ash": "file(entities/hat/ash)"
+        "hat:ash": "file(entities/hat/ash)",
+        "hat:ramask": "file(entities/hat/ramask)",
+        "hat:cactihati": "file(entities/hat/cactihati)"
         },
         
     "overrides": {
@@ -38,7 +40,18 @@
         "/stonehearth/jobs/trapper/trapper_outfit/trapper_outfit.json": "/locksofmanyclothings/jobs/trapper/trapper_outfit/trapper_outfit.json",
         "/stonehearth/jobs/herbalist/herbalist_outfit/herbalist_outfit.qb": "/locksofmanyclothings/jobs/herbalist/herbalist_outfit/herbalist_outfit.qb",
         "/stonehearth/jobs/herbalist/herbalist_outfit/herbalist_outfit_female.qb": "/locksofmanyclothings/jobs/herbalist/herbalist_outfit/herbalist_outfit_female.qb",
-        "/stonehearth/jobs/herbalist/herbalist_outfit/herbalist_outfit.json": "/locksofmanyclothings/jobs/herbalist/herbalist_outfit/herbalist_outfit.json"
+        "/stonehearth/jobs/herbalist/herbalist_outfit/herbalist_outfit.json": "/locksofmanyclothings/jobs/herbalist/herbalist_outfit/herbalist_outfit.json",
+        "/stonehearth/jobs/blacksmith/blacksmith_outfit/blacksmith_outfit_female.qb": "/locksofmanyclothings/jobs/blacksmith/blacksmith_outfit/blacksmith_outfit_female.qb",
+        "/stonehearth/jobs/blacksmith/blacksmith_outfit/blacksmith_outfit.qb": "/locksofmanyclothings/jobs/blacksmith/blacksmith_outfit/blacksmith_outfit.qb",
+        "/stonehearth/jobs/engineer/engineer_outfit/engineer_outfit_female.qb": "/locksofmanyclothings/jobs/engineer/engineer_outfit/engineer_outfit_female.qb",
+        "/stonehearth/jobs/engineer/engineer_outfit/engineer_outfit.qb": "/locksofmanyclothings/jobs/engineer/engineer_outfit/engineer_outfit.qb",
+        "/stonehearth/jobs/engineer/engineer_outfit/engineer_outfit.json": "/locksofmanyclothings/jobs/engineer/engineer_outfit/engineer_outfit.json",
+        "/stonehearth/jobs/mason/mason_outfit/mason_outfit_female.qb": "/locksofmanyclothings/jobs/mason/mason_outfit/mason_outfit_female.qb",
+        "/stonehearth/jobs/mason/mason_outfit/mason_outfit.qb": "/locksofmanyclothings/jobs/mason/mason_outfit/mason_outfit.qb",
+        "/stonehearth/jobs/weaver/weaver_outfit/weaver_outfit_female.qb": "/locksofmanyclothings/jobs/weaver/weaver_outfit/weaver_outfit_female.qb",
+        "/stonehearth/jobs/weaver/weaver_outfit/weaver_outfit.qb": "/locksofmanyclothings/jobs/weaver/weaver_outfit/weaver_outfit.qb",
+        "/stonehearth/jobs/potter/potter_outfit/potter_outfit_female.qb": "/locksofmanyclothings/jobs/potter/potter_outfit/potter_outfit_female.qb",
+        "/stonehearth/jobs/potter/potter_outfit/potter_outfit.qb": "/locksofmanyclothings/jobs/potter/potter_outfit/potter_outfit.qb"
     },
     "mixintos" : {
         "stonehearth/jobs/carpenter/recipes/recipes.json" : "file(recipes/carpenter/recipes.json)",

@@ -9,6 +9,9 @@
             }, 
             "miner_recipe": {
                "recipe": "file(miner_recipe.json)"
+            },
+            "ramask_recipe": {
+               "recipe": "file(ramask_recipe.json)"
             }
          }
       }

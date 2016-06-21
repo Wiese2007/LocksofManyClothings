@@ -16,14 +16,14 @@
       "model_variants": {
          "default": {
             "layer": "hat",
-            "transparent": "false",
+            "transparent": "true",
             "models": [
                "file(miner.qb)"
             ]
          },
          "female": {
             "layer": "hat",
-            "transparent": "false",
+            "transparent": "true",
             "models": [
                "file(miner_female.qb)"
             ]

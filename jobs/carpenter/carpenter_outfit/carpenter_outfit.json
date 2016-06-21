@@ -11,14 +11,12 @@
       "model_variants": {
          "default": {
             "layer": "clothing",
-            "transparent": "true",
             "models": [
                "file(carpenter_outfit.qb)"
             ]
          },
          "female": {
             "layer": "clothing",
-            "transparent": "true",
             "models": [
                "file(carpenter_outfit_female.qb)"
             ]
