@@ -1,0 +1,29 @@
+{
+   "type": "recipe",
+   "work_units": 2,
+   "recipe_name": "i18n(locksofmanyclothings:recipes.weaver.lefteyepatch_recipe.recipe_name)",
+   "description": "i18n(locksofmanyclothings:recipes.weaver.lefteyepatch_recipe.description)",
+   "flavor": "i18n(locksofmanyclothings:recipes.weaver.lefteyepatch_recipe.flavor)",
+   "portrait": "/locksofmanyclothings/entities/hat/lefteyepatch/lefteyepatch.png",
+   "workshop"    : "stonehearth:weaver:workbench", 
+   "level_requirement": 1,
+   "ingredients": [
+      {
+         "material": "thread resource",
+         "count": 1
+      },
+      {
+         "material": "cloth resource",
+         "count": 1
+      },
+      {
+         "material": "pelt resource",
+         "count": 1
+      }
+   ],
+   "produces": [
+      {
+         "item": "locksofmanyclothings:hat:lefteyepatch"
+      }
+   ]
+}

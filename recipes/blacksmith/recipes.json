@@ -15,6 +15,9 @@
             },
             "animemuch_glasses_recipe": {
                "recipe": "file(animemuch_glasses_recipe.json)"
+            },
+            "mischiefhelmet_recipe": {
+               "recipe": "file(mischiefhelmet_recipe.json)"
             }
          }
       }

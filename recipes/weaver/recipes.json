@@ -36,6 +36,12 @@
             },
             "cactihati_recipe": {
                "recipe": "file(cactihati_recipe.json)"
+            },
+            "lefteyepatch_recipe": {
+               "recipe": "file(lefteyepatch_recipe.json)"
+            },
+            "righteyepatch_recipe": {
+               "recipe": "file(righteyepatch_recipe.json)"
             }
          }
       }

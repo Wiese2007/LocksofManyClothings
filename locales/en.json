@@ -171,6 +171,16 @@
                "description" : "Who, me? Why would I dig through rubbish?"
             }
          },
+         "scigyptech": {
+            "scigyptech": {
+               "display_name" : "Scigyptech",
+               "description" : "I see you!"
+            },
+            "scigyptech_iconic": {
+               "display_name" : "Scigyptech",
+               "description" : "I see you!"
+            }
+         },
          "animemuch_glasses": {
             "animemuch_glasses": {
                "display_name" : "Animemuch Glasses",
@@ -203,6 +213,11 @@
          "vortech_recipe": {
             "recipe_name" : "Vortech",
             "description" : "Steel is all!",
+            "flavor" : ""
+         },
+         "scigyptech_recipe": {
+            "recipe_name" : "Scigyptech",
+            "description" : "I see you!",
             "flavor" : ""
          }
       },

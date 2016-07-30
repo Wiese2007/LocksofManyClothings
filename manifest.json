@@ -25,7 +25,11 @@
         "hat:kingcloak": "file(entities/hat/kingcloak)",
         "hat:ash": "file(entities/hat/ash)",
         "hat:ramask": "file(entities/hat/ramask)",
-        "hat:cactihati": "file(entities/hat/cactihati)"
+        "hat:cactihati": "file(entities/hat/cactihati)",
+        "hat:righteyepatch": "file(entities/hat/righteyepatch)",
+        "hat:lefteyepatch": "file(entities/hat/lefteyepatch)",
+        "hat:mischiefhelmet": "file(entities/hat/mischiefhelmet)",
+        "hat:scigyptech": "file(entities/hat/scigyptech)"
         },
         
     "overrides": {
