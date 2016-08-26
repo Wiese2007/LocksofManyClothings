@@ -2,14 +2,6 @@
    "mixins": "stonehearth:mixins:item_properties",
    "type": "entity",
    "components": {
-      "unit_info": {
-         "display_name": "i18n(locksofmanyclothings:entities.hat.huntercloak.huntercloak.display_name)",
-         "description": "i18n(locksofmanyclothings:entities.hat.huntercloak.huntercloak.description)",
-         "icon": "file(huntercloak.png)"
-      },
-      "item": {
-         "category": "armor"
-      },
       "stonehearth:material": {
          "tags": "leather armor hat"
       },
@@ -53,6 +45,13 @@
             "shopkeeper_level": 1,
             "shopkeeper_type": "caravan"
          }
+      },
+      "stonehearth:catalog": {
+         "display_name": "i18n(locksofmanyclothings:entities.hat.huntercloak.huntercloak.display_name)",
+         "description": "i18n(locksofmanyclothings:entities.hat.huntercloak.huntercloak.description)",
+         "icon": "file(huntercloak.png)",
+         "category": "armor",
+         "is_item": true
       }
    }
 }

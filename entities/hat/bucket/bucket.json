@@ -2,14 +2,6 @@
    "mixins": "stonehearth:mixins:item_properties",
    "type": "entity",
    "components": {
-      "unit_info": {
-         "display_name": "i18n(locksofmanyclothings:entities.hat.bucket.bucket.display_name)",
-         "description": "i18n(locksofmanyclothings:entities.hat.bucket.bucket.description)",
-         "icon": "file(bucket.png)"
-      },
-      "item": {
-         "category": "armor"
-      },
       "stonehearth:material": {
          "tags": "leather hat armor"
       },
@@ -53,6 +45,13 @@
             "shopkeeper_level": 1,
             "shopkeeper_type": "caravan"
          }
+      },
+      "stonehearth:catalog": {
+         "display_name": "i18n(locksofmanyclothings:entities.hat.bucket.bucket.display_name)",
+         "description": "i18n(locksofmanyclothings:entities.hat.bucket.bucket.description)",
+         "icon": "file(bucket.png)",
+         "category": "armor",
+         "is_item": true
       }
    }
 }

@@ -2,14 +2,6 @@
    "mixins": "stonehearth:mixins:item_properties",
    "type": "entity",
    "components": {
-      "unit_info": {
-         "display_name": "i18n(locksofmanyclothings:entities.hat.blackmage.blackmage.display_name)",
-         "description": "i18n(locksofmanyclothings:entities.hat.blackmage.blackmage.description)",
-         "icon": "file(blackmage.png)"
-      },
-      "item": {
-         "category": "armor"
-      },
       "stonehearth:material": {
          "tags": "leather hat armor"
       },
@@ -21,7 +13,7 @@
                "file(blackmage.qb)"
             ]
          },
-            "female": {
+         "female": {
             "layer": "hat",
             "transparent": "true",
             "models": [
@@ -53,6 +45,13 @@
             "shopkeeper_level": 1,
             "shopkeeper_type": "caravan"
          }
+      },
+      "stonehearth:catalog": {
+         "display_name": "i18n(locksofmanyclothings:entities.hat.blackmage.blackmage.display_name)",
+         "description": "i18n(locksofmanyclothings:entities.hat.blackmage.blackmage.description)",
+         "icon": "file(blackmage.png)",
+         "category": "armor",
+         "is_item": true
       }
    }
 }
