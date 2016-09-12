@@ -12,6 +12,12 @@
             },
             "ramask_recipe": {
                "recipe": "file(ramask_recipe.json)"
+            },
+            "producehat_recipe": {
+               "recipe": "file(producehat_recipe.json)"
+            },
+            "thegreatpumpkinhead_recipe": {
+               "recipe": "file(thegreatpumpkinhead_recipe.json)"
             }
          }
       }

@@ -1,0 +1,28 @@
+{
+   "mixins": "stonehearth:mixins:item_properties",
+   "type": "entity",
+   "components": {
+      "stonehearth:material": {
+         "tags": "wood armor hat"
+      },
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(thegreatpumpkinhead_iconic.qb)"
+            ]
+         }
+      },
+      "mob": {
+         "model_origin": { "x": -0.05, "y": 0, "z": 0.05 }
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "display_name": "i18n(locksofmanyclothings:entities.hat.thegreatpumpkinhead.thegreatpumpkinhead_iconic.display_name)",
+         "description": "i18n(locksofmanyclothings:entities.hat.thegreatpumpkinhead.thegreatpumpkinhead_iconic.description)",
+         "icon": "file(thegreatpumpkinhead.png)",
+         "is_item": true,
+         "category": "armor"
+      }
+   }
+}

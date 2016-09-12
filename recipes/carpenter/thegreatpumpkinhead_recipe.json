@@ -1,0 +1,25 @@
+{
+   "type": "recipe",
+   "work_units": 5,
+   "recipe_name": "i18n(locksofmanyclothings:recipes.carpenter.thegreatpumpkinhead_recipe.recipe_name)",
+   "description": "i18n(locksofmanyclothings:recipes.carpenter.thegreatpumpkinhead_recipe.description)",
+   "flavor": "i18n(locksofmanyclothings:recipes.carpenter.thegreatpumpkinhead_recipe.flavor)",
+   "portrait": "/locksofmanyclothings/entities/hat/thegreatpumpkinhead/thegreatpumpkinhead.png",
+   "workshop" : "stonehearth:carpenter:toolbench", 
+   "level_requirement": 2,
+   "ingredients": [
+      {
+         "material": "wood resource",
+         "count": 2
+      },
+      {
+         "uri": "stonehearth:food:pumpkin:pumpkin_basket",
+         "count": 5
+      }
+   ],
+   "produces": [
+      {
+         "item": "locksofmanyclothings:hat:thegreatpumpkinhead"
+      }
+   ]
+}

@@ -1,0 +1,57 @@
+{
+   "mixins": "stonehearth:mixins:item_properties",
+   "type": "entity",
+   "components": {
+      "stonehearth:material": {
+         "tags": "wood armor hat"
+      },
+      "model_variants": {
+         "default": {
+            "layer": "hat",
+            "transparent": "false",
+            "models": [
+               "file(thegreatpumpkinhead.qb)"
+            ]
+         },
+         "female": {
+            "layer": "hat",
+            "transparent": "false",
+            "models": [
+               "file(thegreatpumpkinhead_female.qb)"
+            ]
+         }
+      },
+      "stonehearth:entity_forms": {
+         "iconic_form": "file(thegreatpumpkinhead_iconic.json)"
+      },
+      "stonehearth:equipment_piece": {
+         "render_type": "merge_with_model",
+         "slot": "helmet",
+         "ilevel": 9,
+         "roles": "worker_job",
+         "equip_effect": "/stonehearth/data/effects/level_up"
+      }
+   },
+   "entity_data": {
+      "stonehearth:combat:armor_data": {
+         "base_damage_reduction": 1
+      },
+      "stonehearth:net_worth": {
+         "value_in_gold": 90,
+         "rarity": "common",
+         "shop_info": {
+            "buyable": true,
+            "sellable": true,
+            "shopkeeper_level": 1,
+            "shopkeeper_type": "caravan"
+         }
+      },
+      "stonehearth:catalog": {
+         "display_name": "i18n(locksofmanyclothings:entities.hat.thegreatpumpkinhead.thegreatpumpkinhead.display_name)",
+         "description": "i18n(locksofmanyclothings:entities.hat.thegreatpumpkinhead.thegreatpumpkinhead.description)",
+         "icon": "file(thegreatpumpkinhead.png)",
+         "category": "armor",
+         "is_item": true
+      }
+   }
+}

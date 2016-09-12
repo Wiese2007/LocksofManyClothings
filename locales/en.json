@@ -190,6 +190,56 @@
                "display_name" : "Animemuch Glasses",
                "description" : "Häääää!"
             }
+         },
+         "producehat": {
+            "producehat": {
+               "display_name" : "Producehat",
+               "description" : "Yammmie!"
+            },
+            "producehat_iconic": {
+               "display_name" : "Producehat",
+               "description" : "Yammmie!"
+            }
+         },
+         "thegreatpumpkinhead": {
+            "thegreatpumpkinhead": {
+               "display_name" : "The Great Pumpkin Head",
+               "description" : "I can seeeee yoooouuuu!"
+            },
+            "thegreatpumpkinhead_iconic": {
+               "display_name" : "The Great Pumpkin Head",
+               "description" : "I can seeeee yoooouuuu!"
+            }
+         },
+         "righteyepatch": {
+            "righteyepatch": {
+               "display_name" : "Right Eyepatch",
+               "description" : "I can still see you with my left eye!"
+            },
+            "righteyepatch_iconic": {
+               "display_name" : "Right Eyepatch",
+               "description" : "I can still see you with my left eye!"
+            }
+         },
+         "lefteyepatch": {
+            "lefteyepatch": {
+               "display_name" : "Left Eyepatch",
+               "description" : "I can still see you with my right eye!"
+            },
+            "lefteyepatch_iconic": {
+               "display_name" : "Left Eyepatch",
+               "description" : "I can still see you with my right eye!"
+            }
+         },
+         "mischiefhelmet": {
+            "mischiefhelmet": {
+               "display_name" : "The Mischief Helmet",
+               "description" : "I am the MISCHIEF!"
+            },
+            "mischiefhelmet_iconic": {
+               "display_name" : "The Mischief Helmet",
+               "description" : "I am the MISCHIEF!"
+            }
          }
       }
    },
@@ -219,6 +269,11 @@
             "recipe_name" : "Scigyptech",
             "description" : "I see you!",
             "flavor" : ""
+         },
+         "mischiefhelmet_recipe": {
+            "recipe_name" : "The Mischief Helmet",
+            "description" : "I am the MISCHIEF!",
+            "flavor" : ""
          }
       },
       "carpenter": {
@@ -235,6 +290,16 @@
          "ramask_recipe": {
             "recipe_name" : "Ramask",
             "description" : "Who, me? Why would I dig through rubbish?",
+            "flavor" : ""
+         },
+         "producehat_recipe": {
+            "recipe_name" : "Producehat",
+            "description" : "Yammmie!",
+            "flavor" : "Perhaps when nobody use it .. I could eat it?"
+         },
+         "thegreatpumpkinhead_recipe": {
+            "recipe_name" : "The Great Pumpkin Head",
+            "description" : "Was it stolen from a herror movie?",
             "flavor" : ""
          }
       },
@@ -292,6 +357,16 @@
          "cactihati_recipe": {
             "recipe_name" : "Cactihati",
             "description" : "Dun touch mah hat!",
+            "flavor" : ""
+         },
+         "lefteyepatch_recipe": {
+            "recipe_name" : "Left Eyepatch",
+            "description" : "I can still see you with my right eye!",
+            "flavor" : ""
+         },
+         "righteyepatch_recipe": {
+            "recipe_name" : "Right Eyepatch",
+            "description" : "I can still see you with my left eye!",
             "flavor" : ""
          }
       }
