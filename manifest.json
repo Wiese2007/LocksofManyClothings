@@ -52,7 +52,12 @@
         "/stonehearth/jobs/weaver/weaver_outfit/weaver_outfit_female.qb": "/locksofmanyclothings/jobs/weaver/weaver_outfit/weaver_outfit_female.qb",
         "/stonehearth/jobs/weaver/weaver_outfit/weaver_outfit.qb": "/locksofmanyclothings/jobs/weaver/weaver_outfit/weaver_outfit.qb",
         "/stonehearth/jobs/potter/potter_outfit/potter_outfit_female.qb": "/locksofmanyclothings/jobs/potter/potter_outfit/potter_outfit_female.qb",
-        "/stonehearth/jobs/potter/potter_outfit/potter_outfit.qb": "/locksofmanyclothings/jobs/potter/potter_outfit/potter_outfit.qb"
+        "/stonehearth/jobs/potter/potter_outfit/potter_outfit.qb": "/locksofmanyclothings/jobs/potter/potter_outfit/potter_outfit.qb",
+
+        "/stonehearth/jobs/cook/cook_outfit/cook_outfit.json": "/locksofmanyclothings/jobs/cook/cook_outfit/cook_outfit.json",
+        "/stonehearth/jobs/carpenter/carpenter_outfit/carpenter_outfit.json": "/locksofmanyclothings/jobs/carpenter/carpenter_outfit/carpenter_outfit.json",
+        "/stonehearth/jobs/herbalist/herbalist_outfit/herbalist_outfit.json": "/locksofmanyclothings/jobs/herbalist/herbalist_outfit/herbalist_outfit.json"
+
     },
     "mixintos" : {
         "stonehearth/jobs/carpenter/recipes/recipes.json" : "file(recipes/carpenter/recipes.json)",
